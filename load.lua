@@ -18,3 +18,4 @@ elseif _G.ScriptNum == 5 then
     return "To be added!"
 else
     return "Invalid number. Choose from 1 to 5."
+end
